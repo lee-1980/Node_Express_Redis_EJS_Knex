@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/corona-free-dark-bootstrap-admin-template" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2TK59KiS7yLzmjzOKWFVWCqxjWd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -72,7 +72,7 @@
       <workItem from="1691661279505" duration="20000" />
       <workItem from="1691661314722" duration="6227000" />
       <workItem from="1691771326437" duration="704000" />
-      <workItem from="1691773240907" duration="7218000" />
+      <workItem from="1691773240907" duration="7939000" />
     </task>
     <servers />
   </component>
